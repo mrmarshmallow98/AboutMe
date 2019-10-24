@@ -38,6 +38,7 @@
             android:paddingRight="16dp"
             android:text="@string/bio"
              />
+
     </ScrollView>
 
 </LinearLayout>
